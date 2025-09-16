@@ -1,3 +1,14 @@
+<img width="1894" height="724" alt="Screenshot 2025-09-16 111133" src="https://github.com/user-attachments/assets/7835d184-e4dc-4ac4-9b2a-0892d5469100" />
+
+
+
+<img width="1920" height="1442" alt="screencapture-localhost-8501-2025-09-16-11_12_59" src="https://github.com/user-attachments/assets/4c6644b4-b289-45b8-8e44-a1f7565417fb" />
+
+
+
+
+
+
 # 📊 Financial Document Q&A Assistant
 
 A Streamlit app that processes **financial documents (PDF & Excel)** and lets you ask **natural language questions** about revenue, expenses, and profits.  
